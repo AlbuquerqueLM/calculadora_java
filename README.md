@@ -21,9 +21,3 @@ A construção do código seguiu um raciocínio lógico dividido em etapas:
    O projeto foi mantido simples, em um único arquivo, para facilitar a compreensão por iniciantes. No entanto, ele foi estruturado de forma que possa ser facilmente expandido, por exemplo, para incluir funções científicas (como potência, raiz quadrada e funções trigonométricas), uma calculadora de dicas ou até mesmo um conversor de unidades.
    O código utiliza nomenclatura clara, comentários explicativos e organização lógica para facilitar a leitura e manutenção.
 
-5. Possibilidades futuras
-   Além da versão básica, este código pode ser ampliado em diferentes direções:
-
-   * Criar uma calculadora científica utilizando a classe Math.
-   * Adicionar uma interface de conversão de unidades (comprimento, massa, temperatura).
-   * Migrar a interface de Swing para JavaFX, tornando-a mais moderna e responsiva.
